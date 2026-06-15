@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════════════════════
 // DEMO CYPHER QUERIES
 // "Your Pipeline Has an Identity Problem. Graphs Can Fix It."
-// NODES 2026 — Soumya Gummalla
+
 // ═══════════════════════════════════════════════════════════════════════════
 
 
